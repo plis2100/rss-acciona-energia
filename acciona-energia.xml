@@ -5,8 +5,15 @@
     <link>https://www.acciona-energia.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA Energía</description>
     <language>es</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:56:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:31:05 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona-energia.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA Energía inicia la operación comercial de dos parques eólicos en Croacia</title>
+      <link>https://www.acciona-energia.com/es/actualidad/noticias/acciona-energia-inicial-operacion-comercial-parques-eolicos-croacia</link>
+      <description>ACCIONA Energía ha completado la puesta en marcha y la entrada en operación comercial de los parques...</description>
+      <guid isPermaLink="true">https://www.acciona-energia.com/es/actualidad/noticias/acciona-energia-inicial-operacion-comercial-parques-eolicos-croacia</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA Energía instalará dos nuevas baterías en España</title>
       <link>https://www.acciona-energia.com/es/actualidad/noticias/acciona-energia-instalara-dos-nuevas-baterias-espana</link>
@@ -349,13 +356,6 @@
       <description />
       <guid isPermaLink="true">https://www.acciona-energia.com/es/actualidad/noticias/acciona-energia-cierra-financiacion-planta-solar-aldoga-cesce</guid>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA Energía celebra la ceremonia de primera piedra de la planta solar Daanbantayan en Cebú</title>
-      <link>https://www.acciona-energia.com/es/actualidad/noticias/acciona-energia-ceremonia-planta-solar-daanbantayan-cebu</link>
-      <description>ACCIONA Energía celebró ayer la ceremonia de colocación de la primera piedra de la planta solar Daan...</description>
-      <guid isPermaLink="true">https://www.acciona-energia.com/es/actualidad/noticias/acciona-energia-ceremonia-planta-solar-daanbantayan-cebu</guid>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
