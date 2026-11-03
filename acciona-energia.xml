@@ -5,8 +5,15 @@
     <link>https://www.acciona-energia.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA Energía</description>
     <language>es</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:26:07 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona-energia.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA Energía construirá tres nuevas baterías en República Dominicana</title>
+      <link>https://www.acciona-energia.com/es/actualidad/noticias/acciona-energia-construira-tres-nuevas-baterias-republica-dominicana</link>
+      <description>ACCIONA Energía ha anunciado hoy la construcción de tres sistemas de almacenamiento de energía en ba...</description>
+      <guid isPermaLink="true">https://www.acciona-energia.com/es/actualidad/noticias/acciona-energia-construira-tres-nuevas-baterias-republica-dominicana</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA Energía inaugura 120 nuevos puntos de recarga de vehículos eléctricos en centros comerciales de Madrid</title>
       <link>https://www.acciona-energia.com/es/actualidad/noticias/acciona-energia-inaugura-nuevos-puntos-recarga-vehiculos-electricos-centros-comerciales-madrid</link>
@@ -349,13 +356,6 @@
       <description>ACCIONA Energía ha concluido hoy la celebración de dos encuentros informativos con empresas, profesi...</description>
       <guid isPermaLink="true">https://www.acciona-energia.com/es/actualidad/noticias/acciona-energia-tejido-empresarial-biomasa-logrosan</guid>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arantza Ezpeleta asumirá el cargo de consejera delegada de ACCIONA Energía</title>
-      <link>https://www.acciona-energia.com/es/actualidad/noticias/arantza-ezpeleta-consejera-delegada-acciona-energia</link>
-      <description>José Ángel Tejero pasa a ocupar el puesto de director de Operaciones (COO) del grupo y José Entrecan...</description>
-      <guid isPermaLink="true">https://www.acciona-energia.com/es/actualidad/noticias/arantza-ezpeleta-consejera-delegada-acciona-energia</guid>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
